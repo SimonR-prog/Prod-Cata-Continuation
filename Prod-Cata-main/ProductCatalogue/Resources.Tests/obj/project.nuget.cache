@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cTXuIJFqL9Q=",
+  "dgSpecHash": "8Tpurz+Q/qE=",
   "success": true,
-  "projectFilePath": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources.Tests\\Resources.Tests.csproj",
+  "projectFilePath": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources.Tests\\Resources.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

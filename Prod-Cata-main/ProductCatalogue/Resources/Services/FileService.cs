@@ -5,8 +5,10 @@ namespace Resources.Services;
 
 public class FileService : IFileService
 {
+    //Making of a private field to use.
     private readonly string _filePath;
 
+    //Constructor to assign the filepath from the program file into the private field above.
     public FileService(string filePath)
     {
         _filePath = filePath;

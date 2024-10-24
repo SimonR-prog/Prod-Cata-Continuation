@@ -54,3 +54,9 @@ Menu;
 	4. Remove a product.
 	0. Exit program.
 
+
+
+	Things that need to be updated;
+
+	Must change it so that the methods to check if products are valid are updated and actually used.
+	Must change so that the older methods are using the getaproduct method.

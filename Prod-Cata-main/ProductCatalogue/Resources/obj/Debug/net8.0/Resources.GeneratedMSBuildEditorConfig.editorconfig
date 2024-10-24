@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Resources
-build_property.ProjectDir = C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\
+build_property.ProjectDir = C:\Nackademin\c#\Git\Prod-Cata-Continuation\Prod-Cata-main\ProductCatalogue\Resources\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

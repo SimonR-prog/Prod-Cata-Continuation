@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Resources.csproj": {}
+    "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources\\Resources.csproj": {}
   },
   "projects": {
-    "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Resources.csproj": {
+    "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources\\Resources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Resources.csproj",
+        "projectUniqueName": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources\\Resources.csproj",
         "projectName": "Resources",
-        "projectPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Resources.csproj",
+        "projectPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources\\Resources.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\obj\\",
+        "outputPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
