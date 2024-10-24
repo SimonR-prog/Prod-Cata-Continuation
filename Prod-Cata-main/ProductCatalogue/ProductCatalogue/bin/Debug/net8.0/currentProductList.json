@@ -1,0 +1,17 @@
+[
+  {
+    "ProductId": "02ecff24-d5d9-4007-978d-22423763ab8d",
+    "ProductName": "Banan",
+    "ProductPrice": 132.4
+  },
+  {
+    "ProductId": "81ae969b-c375-4929-ae2e-5925693d68e4",
+    "ProductName": "Tomat",
+    "ProductPrice": 123.0
+  },
+  {
+    "ProductId": "b393a5c2-49e7-42b2-9001-49305850f005",
+    "ProductName": "Päron",
+    "ProductPrice": 404.0
+  }
+]

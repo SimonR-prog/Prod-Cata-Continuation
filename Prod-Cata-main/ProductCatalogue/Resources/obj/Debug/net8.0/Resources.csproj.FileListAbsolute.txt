@@ -1,0 +1,13 @@
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\bin\Debug\net8.0\Resources.deps.json
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\bin\Debug\net8.0\Resources.dll
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\bin\Debug\net8.0\Resources.pdb
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.csproj.AssemblyReference.cache
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.AssemblyInfoInputs.cache
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.AssemblyInfo.cs
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.csproj.CoreCompileInputs.cache
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.sourcelink.json
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.dll
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\refint\Resources.dll
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\Resources.pdb
+C:\Nackademin\c#\Git\Prod-Cata\ProductCatalogue\Resources\obj\Debug\net8.0\ref\Resources.dll

@@ -1,0 +1,56 @@
+﻿Assignment;
+
+Program needs;
+	Productclass.
+		Contain productname, price and id.
+			Should  automatically be given a unique id.  (GUID)
+	Product should then be added to a list.
+		If not already in the list.
+		And if the input from user is correct.
+	User should add name and price for the product.
+	User should be able to see the entire list.
+	List should be stored in a txt file in json format.
+	Ability to remove a product.
+	Ability to update a product. (- Optional.)
+	Add an old list of products into the new one. (- Have mistaken this one.)
+		Thought we needed to add a whole different list into the list of the program.
+
+
+Optional;
+	Categoryclass to store the different products into different categories.
+		Probably want an option to add a new category if it doesn't exist.
+
+--------------------------------------------------------------------------
+
+Structure;
+
+Models;
+	Product class
+	Response class
+Menues;
+	MainMenu()
+		First thing user sees. Sends user to specific parts of productmenu.
+	ProductMenu()
+		Takes the input from user and sends to method.
+Service; (CRUD - Create, read, update, delete.)
+	ProductService
+		CreateProduct()
+		ShowProductList()
+		ShowProduct()
+		UpdateProduct()
+		DeleteProduct()
+
+	FileService
+		Import json-file to list.
+		Export list to json-file.
+
+--------------------------------------------------------------------------
+
+Menu;
+	Clear console.
+	1. Show the products.
+	2. Add a product.
+	3. Update a product.
+	4. Remove a product.
+	0. Exit program.
+

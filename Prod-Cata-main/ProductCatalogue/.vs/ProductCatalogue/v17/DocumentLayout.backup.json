@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB1E45D-0A00-4C93-80B5-974F02AB6EAD}|Resources\\Resources.csproj|c:\\nackademin\\c#\\git\\prod-cata\\productcatalogue\\resources\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB1E45D-0A00-4C93-80B5-974F02AB6EAD}|Resources\\Resources.csproj|solutionrelative:resources\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA023DE-3D67-423A-A85A-BE2F5BE50759}|ProductCatalogue\\ProductCatalogue.csproj|c:\\nackademin\\c#\\git\\prod-cata\\productcatalogue\\productcatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA023DE-3D67-423A-A85A-BE2F5BE50759}|ProductCatalogue\\ProductCatalogue.csproj|solutionrelative:productcatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\ProductCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalogue\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\ProductCatalogue\\Program.cs",
+              "RelativeToolTip": "ProductCatalogue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:42:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Resources\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Nackademin\\c#\\Git\\Prod-Cata\\ProductCatalogue\\Resources\\Services\\ProductService.cs",
+              "RelativeToolTip": "Resources\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:02:46.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
