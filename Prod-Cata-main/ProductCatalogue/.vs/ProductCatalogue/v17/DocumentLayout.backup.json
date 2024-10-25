@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AA023DE-3D67-423A-A85A-BE2F5BE50759}|ProductCatalogue\\ProductCatalogue.csproj|c:\\nackademin\\c#\\git\\prod-cata-continuation\\prod-cata-main\\productcatalogue\\productcatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA023DE-3D67-423A-A85A-BE2F5BE50759}|ProductCatalogue\\ProductCatalogue.csproj|solutionrelative:productcatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E65AB53-C42F-4995-9867-F60F4FCB07B2}|Resources.Tests\\Resources.Tests.csproj|c:\\nackademin\\c#\\git\\prod-cata-continuation\\prod-cata-main\\productcatalogue\\resources.tests\\tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E65AB53-C42F-4995-9867-F60F4FCB07B2}|Resources.Tests\\Resources.Tests.csproj|solutionrelative:resources.tests\\tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\ProductCatalogue\\Program.cs",
-              "RelativeDocumentMoniker": "ProductCatalogue\\Program.cs",
-              "ToolTip": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\ProductCatalogue\\Program.cs",
-              "RelativeToolTip": "ProductCatalogue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources.Tests\\Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Resources.Tests\\Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Nackademin\\c#\\Git\\Prod-Cata-Continuation\\Prod-Cata-main\\ProductCatalogue\\Resources.Tests\\Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "Resources.Tests\\Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:42:55.378Z",
+              "WhenOpened": "2024-10-24T21:28:46.524Z",
               "EditorCaption": ""
             }
           ]

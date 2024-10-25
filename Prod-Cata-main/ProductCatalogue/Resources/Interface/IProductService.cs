@@ -9,6 +9,6 @@ namespace Resources.Interface
         Response<IEnumerable<Product>> GetAllProducts();
         Product GetAProduct(string id);
         Response<Product> UpdateProduct(string oldId, string newProductName, decimal newProductPrice);
-        bool ValidProduct(string productId, string productName, decimal productPrice);
+        bool InvalidProduct(string productId, string productName, decimal productPrice);
     }
 }
