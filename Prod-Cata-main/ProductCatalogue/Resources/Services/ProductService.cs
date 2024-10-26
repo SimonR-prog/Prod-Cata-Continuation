@@ -19,13 +19,13 @@ public class ProductService : IProductService
         GetAllProducts();
     }
 
-    public Response<Product> AddToList(Product product)
+    public Response<IEnumerable<Product>> AddToList(Product product)
     {
         //Recieves a product object of the product class.
         //Checks if the parts of the product are good or not.
         if (InvalidProduct(product.ProductId, product.ProductName, product.ProductPrice))
         {
-            return new Response<Product>
+            return new Response<IEnumerable<Product>>
             {
                 Succeeded = false,
                 Message = $"Productname; {product.ProductName} \nProductprice; {product.ProductPrice} \nProductid; {product.ProductId}\nOne of the above parameters are invalid."
@@ -34,7 +34,7 @@ public class ProductService : IProductService
         //Checks if the product name already is in the list or not. Stringcomparison to ignore the capitalization of the name.
         if (_products.Any(pName => string.Equals(pName.ProductName, product.ProductName, StringComparison.OrdinalIgnoreCase)))
         {
-            return new Response<Product>
+            return new Response<IEnumerable<Product>>
             {
                 Succeeded = false,
                 Message = $"{product.ProductName} is already on the list."
@@ -53,21 +53,24 @@ public class ProductService : IProductService
 
             if (result.Succeeded)
             {
-                return new Response<Product>
+                //Returning the list in content to make it so that this can be tested more.
+                return new Response<IEnumerable<Product>>
                 {
                     Succeeded = true,
-                    Message = $"{product.ProductName} was added."
+                    Message = $"{product.ProductName} was added.",
+                    Content = _products
                 };
             }
-            return new Response<Product>
+            return new Response<IEnumerable<Product>>
             {
                 Succeeded = false,
-                Message = $"{product.ProductName} was not added."
+                Message = $"{product.ProductName} was not added.",
+                Content = _products
             };
         }
         catch (Exception ex)
         {
-            return new Response<Product>
+            return new Response<IEnumerable<Product>>
             {
                 Succeeded = false,
                 Message = ex.Message

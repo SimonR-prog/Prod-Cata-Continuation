@@ -4,7 +4,7 @@ namespace Resources.Interface
 {
     public interface IProductService
     {
-        Response<Product> AddToList(Product product);
+        Response<IEnumerable<Product>> AddToList(Product product);
         Response<Product> DeleteProduct(string id);
         Response<IEnumerable<Product>> GetAllProducts();
         Product GetAProduct(string id);
