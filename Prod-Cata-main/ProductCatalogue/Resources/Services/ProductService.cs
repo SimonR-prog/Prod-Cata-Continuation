@@ -232,7 +232,7 @@ public class ProductService : IProductService
     public Product GetAProduct(string id)
     {
         //Uses the id it recieves to find the first product in the list that has the same id.
-        var product = _products.ToList().FirstOrDefault(p => p.ProductId == id);
+        var product = _products.FirstOrDefault(p => p.ProductId == id);
         //If the product is not null return the product, otherwise return null.
         if (product != null)
             return product;
