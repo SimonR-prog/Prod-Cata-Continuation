@@ -1,8 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Resources.Interface;
 using Resources.Models;
-
-
 namespace Resources.Services;
 
 public class ProductService : IProductService
